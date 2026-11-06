@@ -69,7 +69,7 @@ A Correlation Matrix and Variance Inflation Factor (VIF) analysis were performed
 Features were binned into quantiles and transformed using WoE. Features with an IV < 0.02 (e.g., `delinq_2yrs`, `pub_rec`) were dropped as they lacked predictive power in this specific dataset. 
 
 ### 4. Model Discrimination (ROC Curve)
-<img src="ROC_Curve.png" width="80%">
+<img src="ROC_Curve.png" width="100%">
 *Figure 3: ROC Curve demonstrating model discrimination (AUC 0.6782).*
 
 ### 5. Score Distribution
